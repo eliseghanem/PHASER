@@ -1,4 +1,4 @@
-# This code read the xml files for the selected pieces and provides the left and right hand measures as lists.
+# This code reads the xml files for the selected pieces and provides the left and right hand measures as lists.
 # The xml files for these pieces are the outputs of the pianoplayer algorithm, providing the optimal fingering sequence for playing.
 
 import xml.etree.ElementTree as ET
